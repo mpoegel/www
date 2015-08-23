@@ -1,0 +1,69 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+@background: #121212;
+@text-color: #EFEFEF;
+@pbox-background: rgba(0,0,0,0.5);
+@tag-color: #424242;
+
+@pbox-width: 800px;
+
+body {
+  background-color: @background;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.content {
+  position: absolute;
+  top: 50px;
+  left: 25%;
+  width: 50%;
+  color: @text-color;
+}
+
+.pbox {
+  background-color: @pbox-background;
+  width: @pbox-width;
+  margin: auto;
+  overflow: hidden;
+}
+
+.pbox .img-container {
+  float: left;
+  margin-right: 10px;
+}
+.pbox .words-container {
+  float: left;
+  width: @pbox-width - 180px;
+  margin-bottom: 10px;
+}
+
+.pbox .title {
+  font-size: 26px;
+}
+
+.pbox .description {
+}
+
+.pbox img {
+  height: 150px;
+  width: 150px;
+}
+
+.pbox .info, .pbox .tags {
+  list-style-type: none;
+  clear: both;
+}
+
+.pbox .info li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.pbox .tags li {
+  font-family: monospace;
+  display: inline;
+  margin-right: 2px;
+  border: 1px solid darken(@tag-color, 10%);
+  background: @tag-color;
+  padding: 5px;
+}
