@@ -1,0 +1,30 @@
+languageCode = "en-us"
+title = "Infographics"
+baseURL = "https://mpoegel.github.io/www"
+theme = "hugo-creative-portfolio-theme"
+publishDir = "docs"
+
+[params]
+  style = "green"
+  description = "Communicating through insightful aggregations of graphs and figures"
+  copyright = "&copy;2017 Matt Poegel"
+  sidebarAbout = [
+    "Software engineer fresh out of school, now working in New York."
+  ]
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  linkedin      = "https://www.linkedin.com/in/matthew-poegel-8585b582/"
+  github        = "https://github.com/mpoegel"
