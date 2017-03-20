@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Infographics"
-baseURL = "https://mpoegel.github.io/www"
+baseURL = "http://mpoegel.github.io/www"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "docs"
 
