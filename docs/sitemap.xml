@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mpoegel.github.io/www/portfolio/hackrpi-2016/</loc>
+    <lastmod>2017-03-20T19:36:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpoegel.github.io/www/portfolio/us-prisons/</loc>
+    <lastmod>2017-03-20T19:24:28-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mpoegel.github.io/www/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -30,13 +40,13 @@
   
   <url>
     <loc>https://mpoegel.github.io/www/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <lastmod>2017-03-20T19:36:43-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mpoegel.github.io/www/portfolio/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <lastmod>2017-03-20T19:36:43-04:00</lastmod>
     <priority>0</priority>
   </url>
   
