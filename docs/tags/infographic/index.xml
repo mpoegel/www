@@ -1,30 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Infographics</title>
-    <link>https://mpoegel.github.io/www/index.xml</link>
-    <description>Recent content on Infographics</description>
+    <title>Infographic on Infographics</title>
+    <link>https://mpoegel.github.io/www/tags/infographic/index.xml</link>
+    <description>Recent content in Infographic on Infographics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Matt Poegel</copyright>
-    <lastBuildDate>Mon, 03 Jul 2017 23:18:41 -0400</lastBuildDate>
-    <atom:link href="https://mpoegel.github.io/www/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>swot clock</title>
-      <link>https://mpoegel.github.io/www/portfolio/swot-clock/</link>
-      <pubDate>Mon, 03 Jul 2017 23:18:41 -0400</pubDate>
-      
-      <guid>https://mpoegel.github.io/www/portfolio/swot-clock/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://semnext.tw.rpi.edu&#34;&gt;
-&lt;img class=&#34;full-page-img&#34; src=&#34;https://mpoegel.github.io/www/static/images/swot-clock.png&#34;&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/mpoegel/SemNExT-Visualizations&#34;&gt;
-  &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; View Source
-&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="https://mpoegel.github.io/www/tags/infographic/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Better Jobs, But No Equality</title>
@@ -71,47 +54,6 @@
 &lt;p&gt;&lt;a href=&#34;https://github.com/mpoegel/infographics/blob/master/src/R/us_prisons.R&#34;&gt;
   &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; View Source
 &lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Get in touch</title>
-      <link>https://mpoegel.github.io/www/contact/</link>
-      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
-      
-      <guid>https://mpoegel.github.io/www/contact/</guid>
-      <description>&lt;p&gt;Check back later.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Interactives</title>
-      <link>https://mpoegel.github.io/www/interactives/</link>
-      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
-      
-      <guid>https://mpoegel.github.io/www/interactives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://mpoegel.github.io/www/about/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
-      <guid>https://mpoegel.github.io/www/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a software engineer fresh out of school, now living and working in NYC.&lt;/p&gt;
-
-&lt;p&gt;I have a passion for data science and the communication of information in data through
-visualizations. I&amp;rsquo;m learning R as I go to create more insightful and beautiful graphics. My goal is that my work
-is honest and transparent, using only reliable and trustworthy sources for data. I never
-intentionally skew or obscure my graphics to mislead or manipulate. If you don&amp;rsquo;t believe me, I always list my sources at
-the bottom of my graphics (when the data is public), and the source code is open on my Github page and linked to in
-each post. Reach out to me if you have any suggestions for future graphics!&lt;/p&gt;
-
-&lt;p&gt;Feel free to share and distribute my work any way you like, but please remember to give credit.&lt;/p&gt;
-
-&lt;p&gt;I graduated with a Bachelor&amp;rsquo;s of Science in Mathematics and Computer Science from Rensselaer
-Polytechnic Institute in 2017.&lt;/p&gt;
 </description>
     </item>
     

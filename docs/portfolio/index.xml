@@ -7,8 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Matt Poegel</copyright>
-    <lastBuildDate>Mon, 20 Mar 2017 19:36:43 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 23:18:41 -0400</lastBuildDate>
     <atom:link href="https://mpoegel.github.io/www/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>swot clock</title>
+      <link>https://mpoegel.github.io/www/portfolio/swot-clock/</link>
+      <pubDate>Mon, 03 Jul 2017 23:18:41 -0400</pubDate>
+      
+      <guid>https://mpoegel.github.io/www/portfolio/swot-clock/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://semnext.tw.rpi.edu&#34;&gt;
+&lt;img class=&#34;full-page-img&#34; src=&#34;https://mpoegel.github.io/www/static/images/swot-clock.png&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/mpoegel/SemNExT-Visualizations&#34;&gt;
+  &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; View Source
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Better Jobs, But No Equality</title>
+      <link>https://mpoegel.github.io/www/portfolio/better-jobs-but-no-equality/</link>
+      <pubDate>Sun, 02 Jul 2017 21:51:08 -0400</pubDate>
+      
+      <guid>https://mpoegel.github.io/www/portfolio/better-jobs-but-no-equality/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/mpoegel/infographics/raw/master/reports/figures/better_jobs_no_equality.png&#34;&gt;
+&lt;img class=&#34;full-page-img&#34; src=&#34;https://github.com/mpoegel/infographics/raw/master/reports/figures/better_jobs_no_equality.png&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/mpoegel/infographics/blob/master/src/R/us_bureau_of_labor_statistics.R&#34;&gt;
+  &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt; View Source
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>hackrpi 2016</title>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactives on Infographics</title>
+    <link>https://mpoegel.github.io/www/interactives/index.xml</link>
+    <description>Recent content in Interactives on Infographics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Matt Poegel</copyright>
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
+    <atom:link href="https://mpoegel.github.io/www/interactives/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Interactives</title>
+      <link>https://mpoegel.github.io/www/interactives/</link>
+      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
+      
+      <guid>https://mpoegel.github.io/www/interactives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

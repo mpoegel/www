@@ -5,6 +5,7 @@ draft = false
 showonlyimage = false
 image = "https://github.com/mpoegel/infographics/blob/master/reports/figures/private_prisons.png?raw=true"
 weight = 0
+tags = ["infographic"]
 +++
 
 <a href="https://github.com/mpoegel/infographics/blob/master/reports/figures/private_prisons.png?raw=true">

@@ -4,7 +4,8 @@ title = "hackrpi 2016"
 showonlyimage = false
 image = "https://github.com/mpoegel/infographics/blob/master/reports/figures/hackrpi2017.png?raw=true"
 draft = false
-
+weight = 0
+tags = ["infographic"]
 +++
 
 <a href="https://github.com/mpoegel/infographics/blob/master/reports/figures/hackrpi2017.png?raw=true">

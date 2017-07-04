@@ -5,6 +5,7 @@ date = "2017-07-02T21:51:08-04:00"
 title = "Better Jobs, But No Equality"
 showonlyimage = false
 weight = 0
+tags = ["infographic"]
 +++
 
 <a href="https://github.com/mpoegel/infographics/raw/master/reports/figures/better_jobs_no_equality.png">

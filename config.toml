@@ -16,15 +16,19 @@ publishDir = "docs"
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = ""
+  url = "/"
 
   [[params.navlinks]]
   name = "About"
-  url = "about/"
+  url = "/about/"
 
   [[params.navlinks]]
   name = "Get in touch"
-  url = "contact/"
+  url = "/contact/"
+
+  [[params.navlinks]]
+  name = "Interactives"
+  url = "/interactives/"
 
   [params.social]
   linkedin      = "https://www.linkedin.com/in/matthew-poegel-8585b582/"
